@@ -8,4 +8,4 @@
     * after that run npm install to install node modules
     * then run npm start to the service on localhost:3000
     
-    deployed app is: https://kellynkomo-portfolio.netlify.app/
+    deployed app is: https://kellynkomo-portfolio.netlify.app/ to view the final product.
